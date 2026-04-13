@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "product-marketing-context": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "e0c954d8b63d562b997fe6d60f0b39aef49517bdbb93ad67e61989ecbc647cf8"
+    }
+  }
+}
